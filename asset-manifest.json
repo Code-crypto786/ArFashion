@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ArFashion/static/css/main.64d7528b.chunk.css",
+    "main.js": "/ArFashion/static/js/main.1ca059a8.chunk.js",
+    "main.js.map": "/ArFashion/static/js/main.1ca059a8.chunk.js.map",
+    "runtime-main.js": "/ArFashion/static/js/runtime-main.a87fa3ee.js",
+    "runtime-main.js.map": "/ArFashion/static/js/runtime-main.a87fa3ee.js.map",
+    "static/css/2.c217881e.chunk.css": "/ArFashion/static/css/2.c217881e.chunk.css",
+    "static/js/2.b94fcbea.chunk.js": "/ArFashion/static/js/2.b94fcbea.chunk.js",
+    "static/js/2.b94fcbea.chunk.js.map": "/ArFashion/static/js/2.b94fcbea.chunk.js.map",
+    "static/js/3.95987054.chunk.js": "/ArFashion/static/js/3.95987054.chunk.js",
+    "static/js/3.95987054.chunk.js.map": "/ArFashion/static/js/3.95987054.chunk.js.map",
+    "index.html": "/ArFashion/index.html",
+    "static/css/2.c217881e.chunk.css.map": "/ArFashion/static/css/2.c217881e.chunk.css.map",
+    "static/css/main.64d7528b.chunk.css.map": "/ArFashion/static/css/main.64d7528b.chunk.css.map",
+    "static/js/2.b94fcbea.chunk.js.LICENSE.txt": "/ArFashion/static/js/2.b94fcbea.chunk.js.LICENSE.txt",
+    "static/media/image2.bd869a10.jpg": "/ArFashion/static/media/image2.bd869a10.jpg",
+    "static/media/logo.f24cf782.png": "/ArFashion/static/media/logo.f24cf782.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a87fa3ee.js",
+    "static/css/2.c217881e.chunk.css",
+    "static/js/2.b94fcbea.chunk.js",
+    "static/css/main.64d7528b.chunk.css",
+    "static/js/main.1ca059a8.chunk.js"
+  ]
+}
